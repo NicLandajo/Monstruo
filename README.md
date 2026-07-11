@@ -4,7 +4,7 @@
 
 Made for Nuke 15.2, 15.1v1+ and 14
 
-This tool will allow you to create three-dimensional chromatic aberration and bokeh in Nuke attempting to emulate real optical behavior. Supports deep data.
+This setup brings the first truly three-dimensional chromatic aberration and accurate bokeh defocus to Nuke — emulating real optical behavior for the first time. Supports deep data.
 
 #
 youtube tutorial to start using it
